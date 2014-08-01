@@ -26,9 +26,12 @@ Enable [CORS](http://en.wikipedia.org/wiki/Cross-origin_resource_sharing). If yo
 Be sure that the `postpicture.php` may write in the *files* folder, but that the content of *files* may not be accessed from outside! 
 
 ## License
+*For the code in bookmarklet.js and postpicture.js applies the license below. Other included files may have differing licenses.*
+
+
 The MIT License (MIT)
 
-Copyright (c)  2014 Jan Dittrich
+Copyright (c)  2014 Jan Dittrich, Sascha S.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
