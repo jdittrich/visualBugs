@@ -1,5 +1,5 @@
 
-This is a bookmarklet which allows to take screenshots, annotate them, write some text and send them to a server where text and image are saved. It should serve as a help for projects in which you want participation of people who are not savvy wiith using a bugtracker or even making screenshots. 
+This is a bookmarklet which allows to take screenshots of websites, to annotate them, write some text and send them to a server where text and image are saved. It should serve as a help for projects in which you want participation of people who are not savvy wiith using a bugtracker or even making screenshots. 
 
 ##Setup
 ###Define dependencies
