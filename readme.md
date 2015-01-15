@@ -1,6 +1,12 @@
 
 This is a bookmarklet which allows to take screenshots of websites, to annotate them, write some text and send them to a server where text and image are saved. It should serve as a help for projects in which you want participation of people who are not savvy wiith using a bugtracker or even making screenshots. 
 
+____________
+![screenshot](http://i.imgur.com/iWTQoyp.png)
+
+*Screenshot of the bookmarklet in use*
+____________
+
 ##Setup
 ###Define dependencies
 The script has several dependencies. It gets jquery from googles CDN. The others you need provide yourself. On top of the code in `bookmarklet.js` you see: 
