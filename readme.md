@@ -22,10 +22,10 @@ Use the sketchwrapped.js file from the repo, put it on a server and put the addr
 Put the `postpicture.php` file from the repo in an PHP-enabled folder on  a server. Put the location of the script in the `url_sentTo`
 
 
-###Create the bookmarklet 
+### Create the bookmarklet 
 Use [bookbu](https://github.com/ardcore/bookbu.js) to convert the code of `bookmarklet.js`  to a bookmarklet. Copypaste the text bookbu creates into the adress field of a bookmark.
 
-###Setup on Server
+### Setup on Server
 Like mentioned above, the `postpicture.php` file needs to go on a php enabled webspace. In the folder where you put the file create a *files* folder. In this folder go the reports and the screenshots. 
 Enable [CORS](http://en.wikipedia.org/wiki/Cross-origin_resource_sharing). If you are on Apache you can use the `.htaccess` file from this repo. 
 
