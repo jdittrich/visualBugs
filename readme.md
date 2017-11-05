@@ -7,8 +7,9 @@ ____________
 *Screenshot of the bookmarklet in use*
 ____________
 
-##Setup
-###Define dependencies
+## Setup
+### Define dependencies
+
 The script has several dependencies. It gets jquery from googles CDN. The others you need provide yourself. On top of the code in `bookmarklet.js` you see: 
 
     var url_html2canvas=""; //url for  html2canvas
